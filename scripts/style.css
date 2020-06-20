@@ -9,9 +9,9 @@ body a {
   body a:hover {
   color: yellow; }
 body .content {
-  background: url("https://github.com/veterinarian-5300/Housing/blob/master/images/gitrdone.png?raw=true") no-repeat top right;
-  height: 1398px;
-  width: 1600px;
+  background: url("https://github.com/veterinarian-5300/Housing/blob/master/images/gitrdone.png?raw=true") no-repeat ;
+  height: 4096px;
+  width: 2160px;
   margin: 0 0 0 auto;
   padding-left: 50px; }
 body .content h1 {
