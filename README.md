@@ -1,10 +1,6 @@
 # Sticksmansion
 
-An ambitious immersive housing project.
----
-
-
-
+## An ambitious immersive housing project.
 
 ## TODO
 
