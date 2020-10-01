@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@400;800&display=swap');
 
 body{
-        /* background: url("https://github.com/veterinarian-5300/Housing/blob/master/images/drogon.png?raw=true") no-repeat ; */
-        background: url("../images/drogon.png");
+        background: url("https://github.com/veterinarian-5300/Housing/blob/master/images/drogon.png?raw=true") no-repeat ;
+        /* background: url("../images/drogon.png"); */
         font-family: 'Sansita Swashed', cursive;
 }
 .main-header{
