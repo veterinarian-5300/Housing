@@ -1,5 +1,4 @@
-# Sticksmansion
-<a src="https://sticksmansion.godaddysites.com/"> Link </a>
+# Sticksmansion <a src="https://sticksmansion.godaddysites.com/"> Link </a>
 An ambitious immersive housing project.
 ---
 
