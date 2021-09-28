@@ -1,5 +1,10 @@
-# Sticksmansion <a src="https://sticksmansion.godaddysites.com/"> Link </a>
+# Sticksmansion 
+
+<a href="https://sticksmansion.godaddysites.com/">
+    <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-link-social-media-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/><br>
 An ambitious immersive housing project.
+  
+  
 ---
 
 
